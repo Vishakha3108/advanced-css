@@ -1,0 +1,22 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    padding-top: 500px;
+    font-size: 75px;
+    color: white;
+    word-spacing: 2px;
+}
+p {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+ }
+ .box {
+    height: 100vh;
+    background-image: linear-gradient(to top,  #6b036b, #0995f3);
+}
